@@ -1,5 +1,5 @@
 
-# AI绘图助手（通义千问优化prompt + 通义千问专业版绘图模型qwen-image-plus）
+# AI绘图助手（通义千问大模型优化prompt + 通义千问专业版绘图模型qwen-image-plus）
 基于阿里云通义千问大模型 + qwen-image-plus 绘图模型的多轮交互 AI 绘图工具，通过 Streamlit 搭建可视化 Web 界面，支持 Prompt 智能优化、历史对话记忆、全流程可视化展示。
 
 
