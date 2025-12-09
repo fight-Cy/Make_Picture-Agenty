@@ -62,7 +62,7 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ### 步骤4：启动应用
 ```bash
-streamlit run app.py
+streamlit run opt_qwen_image_plus_main.py
 ```
 启动后，在浏览器中访问终端输出的`Local URL`（通常为`http://localhost:8501`）。
 
